@@ -2,6 +2,7 @@
 # General Site Settings
 
 menu:
+- {name: 'About me', url: 'aboutMe'}
 - {name: 'Projects', url: ''}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
